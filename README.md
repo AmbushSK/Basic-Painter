@@ -33,7 +33,7 @@ If you run into any crashes, check your `Crash Dumps` folder or open an issue on
 
 * **Language:** C++ (compiled via MinGW/g++)
 * **Core APIs:** WinEventHooks, DWM API, GDI+
-* **Branding:** AeroLithix Corporation ecosystem
+* **Branding:** AeroLithix Corporation
 
 ---
 
