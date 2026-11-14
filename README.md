@@ -23,7 +23,7 @@ If you run into any crashes, check your `Crash Dumps` folder or open an issue on
 
 ## 🚀 Getting Started
 
-1. Download `The Newest Basic Painter` from the [Releases](../../releases) page.
+1. Download `The Latest Basic Painter` from the [Releases](../../releases) page.
 2. Extract the files to a local directory (e.g., `C:\BasicPainter`).
 3. Run `BasicPainter.exe` (Administrator privileges recommended for proper DWM and hook integration).
 
