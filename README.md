@@ -40,3 +40,5 @@ If you run into any crashes, check your `Crash Dumps` folder or open an issue on
 ## 🤝 Contributing
 
 Found a bug or have a suggestion for next week's update? Drop an issue or pull request directly in the repository.
+
+<img width="1280" height="640" alt="repository-open-graph-template2" src="https://github.com/user-attachments/assets/9839c9d9-71d0-4749-8504-d35ff820ae2d" />
