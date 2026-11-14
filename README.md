@@ -4,8 +4,8 @@
 
 ---
 
-## ⚠️ Alpha Release Notice (v1.0)
-BasicPainter is currently in **v1.0 Alpha**. While it brings aggressive bug patches, weekly feature updates, and expanded controls, please expect occasional edge-case bugs or rendering quirks. 
+## ⚠️ Alpha Release Notice
+BasicPainter is currently in **Alpha**. While it brings aggressive bug patches, weekly feature updates, and expanded controls, please expect occasional edge-case bugs or rendering quirks. 
 
 If you run into any crashes, check your `Crash Dumps` folder or open an issue on GitHub!
 
@@ -17,13 +17,13 @@ If you run into any crashes, check your `Crash Dumps` folder or open an issue on
 * **Hybrid Window Corners:** Custom top-rounded and bottom-square corner rendering.
 * **DWM Off-Screen Rendering:** Fixes scaling and rendering glitches for tricky apps like Google Chrome.
 * **Expanded Customization:** Thick DWM frames, UWP titlebar replacement, system tray controls, and custom theme fallbacks.
-* **Active Weekly Updates:** Rapidly patched and improved every week based on user feedback.
+* **Weekly Updates:** Rapidly patched and improved every week based on user feedback.
 
 ---
 
 ## 🚀 Getting Started
 
-1. Download `BasicPainter_v1.0-alpha.zip` from the [Releases](../../releases) page.
+1. Download `The Newest Basic Painter` from the [Releases](../../releases) page.
 2. Extract the files to a local directory (e.g., `C:\BasicPainter`).
 3. Run `BasicPainter.exe` (Administrator privileges recommended for proper DWM and hook integration).
 
